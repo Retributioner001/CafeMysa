@@ -1,4 +1,4 @@
-﻿// ===============================
+// ===============================
 // LOADING SCREEN
 // ===============================
 window.addEventListener('load', () => {
@@ -725,30 +725,32 @@ function initBlogModal() {
 
                 <p>Here is what a perfect Café Mysa mango season visit looks like: You arrive mid-morning as the Ranchi heat is beginning to build. You order a Mango Basil Mojito and a Granola Bowl. You settle in. You stay longer than you planned. Somewhere around noon, you add a Mango Avocado Salad. The afternoon arrives and with it, a Mango Matcha Frappe. Evening light fills the café and you order — because how could you not — the Mango Tres Leches.</p>
 
-                <p>You leave having experienced something that felt, genuinely, like a whole summer afternoon. You already know you'll be back. This is what Café Mysa does. This is what the mango menu makes possible. This is why, in Ranchi, mango season now has a home. Come explore every item. Come find your favourite. Come experience Café Mysa's Complete Mango Summer.</p>
-            `
-        },
-        blog21: {
+                <p>You        blog21: {
             title: "Café Mysa Just Rewrote Ranchi's Food Scene — And the New Menu Proves It",
             body: `
+                <h3>A Menu That Changes the Conversation</h3>
                 <p>There are moments when a café stops being just a place to eat and becomes something more — a statement about what a city deserves, about how far its food culture has come, about the ambition of the people building it. Café Mysa in Ranchi just had one of those moments.</p>
 
                 <p>The new additions to the Café Mysa menu aren't just dishes. They're a declaration. From Bhutanese-inspired Ema Datshi to fire-kissed Thecha Chicken, from slow-baked Mexican tacos to avocado-forward grilled bowls — this is a menu that looks outward at global cuisine and inward at Ranchi's evolving appetite, and creates something that belongs to both worlds simultaneously.</p>
 
                 <p>If you've been following Café Mysa since its early days, you already know the café sets a standard that few places in Ranchi match. This new menu raises that standard again. Here's everything you need to know about what just landed on the table.</p>
 
+                <h3>Global Flavours, Ranchi Address</h3>
                 <p>The diversity of this new menu is one of the first things that strikes you. In a single visit to Café Mysa, you could travel from Mexico — where the Baked Chicken Taco arrives golden and crisped from the oven — to the mountains of Bhutan, where Ema Datshi Egg brings a warm chilli-cheese depth that is unlike anything else being served in Ranchi right now. You could move from the rustic spice of Maharashtrian Thecha Chicken to the clean European elegance of Pesto Rosso Pasta, all without leaving your table.</p>
 
                 <p>This is modern café dining done right. Not fusion for the sake of it. Not novelty without substance. Each dish has been built with intention — flavour-first, always — and the result is a menu that rewards both the adventurous and the comfort-seeker in equal measure.</p>
 
+                <h3>The Grilled & the Smoky: Shashlik and Bowls</h3>
                 <p>For those who come to Café Mysa seeking something substantial and satisfying, the new grill section delivers. Paneer Shashlik and Chicken Shashlik bring the art of the skewer to Ranchi with proper care — marinated, grilled, and plated with the kind of precision that makes you appreciate a flame-kissed ingredient done well.</p>
 
                 <p>The Avocado Grilled Paneer Bowl and Avocado Grilled Chicken Bowl extend this grilled philosophy into bowl format — warm protein, cool avocado, fresh accompaniments, all working together in a single vessel that manages to feel both light and deeply satisfying. These are the dishes for afternoons when you want something real without anything heavy, and they represent Café Mysa's growing mastery of the bowl format.</p>
 
+                <h3>Comfort, Reimagined: Pasta, Tacos, and the Mac Bowl</h3>
                 <p>Then there's the comfort zone — and Café Mysa's new menu expands it considerably. The Pesto Rosso Pasta (available in both veg and non-veg versions) is a herb-rich, tomato-forward celebration of Italian simplicity done with care. The Spaghetti in Chilli Garlic Oil follows a different path — leaner, bolder, fragrant with garlic and alive with heat, the kind of pasta you keep eating past the point of being full because stopping feels wrong.</p>
 
                 <p>The Mexican Baked Taco — both the veg version and the Baked Chicken Taco — introduces something genuinely new to the Ranchi café scene: the slow-baked taco, where the shell crisps beautifully in the oven and the fillings meld together in a way that no pan-fried or pre-made version can replicate. And the Crispy Chicken Mac and Cheese Bowl takes the world's most beloved comfort food and adds texture and protein to create something that feels indulgent, complete, and entirely its own.</p>
 
+                <h3>Something for Everyone — and Then Some</h3>
                 <p>The Veg Delight Wrap rounds out the lighter end of the menu — fresh, flavourful, and built for people who want something you can hold in one hand and still feel like a proper meal. The Avocado Cream Salad, available in both veg and non-veg versions, brings the creamy, green richness of avocado to a salad format that is elegant, cool, and deeply satisfying even on Ranchi's most demanding summer days.</p>
 
                 <p>What this menu does, ultimately, is give Ranchi's food lovers more reasons to choose Café Mysa — and more reasons to stay longer, explore more, and bring new people to the table. The best café in Ranchi just got better.</p>
@@ -759,22 +761,26 @@ function initBlogModal() {
         blog22: {
             title: "The Best Pasta in Ranchi Has Found Its Home at Café Mysa",
             body: `
+                <h3>When Ranchi Fell in Love With Pasta</h3>
                 <p>Ask any food lover in Ranchi when they first had a pasta that actually changed their mind about the format and you'll get a different answer every time — but they'll all agree on the shape of the memory: something warm, something fragrant, something that made the rest of the evening feel slower and more generous. Café Mysa has always understood this. And with two extraordinary new pasta additions to its menu, it has staked its claim as the definitive destination for the best pasta in Ranchi.</p>
 
                 <p>The Pesto Rosso Pasta and the Spaghetti in Chilli Garlic Oil are not just additions to a growing menu. They are two distinct philosophies of pasta, two entirely different emotional experiences, and together they give Ranchi something it has quietly been waiting for: pasta that is genuinely worth seeking out.</p>
 
+                <h3>Pesto Rosso Pasta: Herb, Depth, and Italian Soul</h3>
                 <p>Let's begin with the Pesto Rosso — a dish that earns attention immediately and holds it. Pesto Rosso, for those less familiar, is a red variation of pesto: where the classic green is built on basil and olive oil, the rosso version brings sun-dried tomatoes into the fold, deepening the flavour into something richer, warmer, and more complex. At Café Mysa, this sauce is the hero of the dish — and it has been treated accordingly.</p>
 
                 <p>The pasta itself carries the sauce beautifully — coating each strand or piece with that red-herb richness, the tomato's sweetness underpinning the basil's fragrance, the whole thing finished with enough parmesan and care to make every bite feel considered. Available in both veg and non-veg versions, the Pesto Rosso Pasta adapts to your preference without losing a single note of what makes it extraordinary.</p>
 
                 <p>It's the kind of pasta you order when you want to feel like you're eating something from a restaurant that understands Europe from the inside. In Ranchi, at Café Mysa, that feeling is now real and available to you any day of the week.</p>
 
+                <h3>Spaghetti in Chilli Garlic Oil: Simple, Bold, Brilliant</h3>
                 <p>If the Pesto Rosso is complex and layered, the Spaghetti in Chilli Garlic Oil is its opposite in the best possible way — direct, bold, built on the power of three ingredients done with total conviction. Garlic. Chilli. Olive oil. Spaghetti. This is the pasta that Italian home cooks make at midnight when the fridge is almost empty and they know that quality oil, good pasta, and proper technique are all you need.</p>
 
                 <p>At Café Mysa, the execution is what separates this dish from every lesser version you may have encountered. The garlic is cooked slowly enough to lose its sharpness and gain a golden, almost nutty depth. The chilli brings heat that is present without overwhelming. The oil, absorbed into the spaghetti, gives every forkful a silky richness that makes the dish feel far more luxurious than its ingredient list suggests.</p>
 
                 <p>Available in veg and non-veg versions, the Spaghetti in Chilli Garlic Oil is also the perfect pasta for Ranchi's heat — bold enough to feel like an event, light enough not to slow you down. It is the kind of dish that makes you think you know what you're getting and then surprises you completely with how good it actually is.</p>
 
+                <h3>Two Pastas, One Address: Why Café Mysa Wins</h3>
                 <p>The beauty of having both these pastas on the same menu is the contrast they create — and the fact that no two visits to Café Mysa need to be the same. Come one week for the Pesto Rosso: warm, herbed, rich, comforting. Come the next for the Chilli Garlic Spaghetti: lean, fragrant, fiery, alive. Bring different people. Notice how both dishes hold a conversation equally well, how both make the café table feel like the right place to be.</p>
 
                 <p>Ranchi has been waiting for this level of pasta. And now it doesn't have to wait any longer.</p>
@@ -785,22 +791,24 @@ function initBlogModal() {
         blog23: {
             title: "Ranchi's First Baked Taco Experience Is at Café Mysa — and It's Extraordinary",
             body: `
+                <h3>The Taco That Ranchi Didn't Know It Was Missing</h3>
                 <p>Most people who've had a taco in India have had the fried version — crisp shell, quick heat, food-court energy. There's nothing wrong with that. But there is something different, something more deeply satisfying, available in the world of tacos — and Café Mysa has brought it to Ranchi for the first time.</p>
 
                 <p>The baked taco. Slow heat, not fast fry. A shell that crisps from the inside out as it bakes. Fillings that meld together in the oven, each ingredient releasing and intertwining with the next, creating a layered depth of flavour that the quick-fried version simply cannot achieve. This is the taco at its most considered — and at Café Mysa, it is the taco at its absolute best in Ranchi.</p>
 
+                <h3>Mexican Baked Taco (Veg): Where Bold Meets Beautiful</h3>
                 <p>The veg version of Café Mysa's Mexican Baked Taco is proof that vegetarian doesn't mean compromise — it means constraint that forces creativity, and creativity that produces something genuinely exciting. The filling is a carefully built combination: spiced vegetables, Mexican-seasoned beans or corn, possibly a hit of salsa or a bright pico element, all layered inside that slow-baked shell and given time in the oven to become something more than the sum of their parts.</p>
 
                 <p>What comes out is warm and fragrant, with a shell that has the right amount of give — not soft, not hard, but that ideal crisp that holds its shape until the last bite. The vegetables have softened without losing their identity. The spices are present but calibrated, so you taste the cumin and the chilli and the Mexican herb profile without anything drowning anything else out. It is, to use a word carefully: balanced. And balance in a baked taco is everything.</p>
 
                 <p>This is the best Mexican food available at any café in Ranchi right now. That's not an overstatement — it's simply what the dish delivers.</p>
 
+                <h3>Baked Chicken Taco: Comfort, Heat, and Proper Satisfaction</h3>
                 <p>For those who want protein in the equation, the Baked Chicken Taco at Café Mysa is the non-veg answer — and it is, in its own way, even more satisfying than the veg version. The chicken is marinated and seasoned before it goes anywhere near the oven, which means by the time the taco is baked and in your hands, the meat has absorbed its seasoning deeply. It's tender inside, slightly caramelised at the edges where it made contact with the shell, and flavoured with the warmth of Mexican spice.</p>
 
                 <p>Add to this the textural contrast of the crisp shell, whatever fresh element (herb, cream, or bright sauce) arrives alongside, and the overall warmth of a dish that has spent time in an oven rather than being assembled in haste — and you have the most satisfying chicken taco in Ranchi. Possibly the most satisfying chicken taco in a long time, period.</p>
 
-                <p>Eaten warm, pulled apart slowly, paired with something cold from the Café Mysa drinks menu — this is how the Baked Chicken Taco deserves to be experienced. Don't rush it. It was made to be enjoyed.</p>
-
+                <h3>Why Baked Beats Fried: The Café Mysa Philosophy</h3>
                 <p>The decision to go baked rather than fried wasn't accidental. It reflects something fundamental about Café Mysa's approach to food: that slower often means better, that restraint in technique often produces more complex results, and that giving ingredients time and proper heat is one of the most powerful things a kitchen can do.</p>
 
                 <p>The baked taco is the fried taco's more interesting older sibling. It takes longer. It requires attention. It cannot be rushed. And at Café Mysa, it is done with exactly the care those requirements demand.</p>
@@ -811,22 +819,26 @@ function initBlogModal() {
         blog24: {
             title: "Grilled to Perfection: Café Mysa's Shashlik Is the Best Thing to Happen to Ranchi's Food Scene",
             body: `
+                <h3>The Art of the Skewer, in Ranchi</h3>
                 <p>There is something ancient and deeply satisfying about food cooked on a skewer over direct heat. It is one of humanity's oldest culinary traditions — meat or vegetables, marinated carefully, threaded onto metal or wood, and given to fire. The result, when done with proper attention to marinade and flame, is something no other cooking method produces: a char-kissed exterior that locks in moisture, a depth of flavour that comes only from caramelisation at high heat, and a tenderness inside that contrasts with the textured surface in the most satisfying way possible.</p>
 
                 <p>Café Mysa's new Paneer Shashlik and Chicken Shashlik bring this tradition to Ranchi in the best way — with quality ingredients, considered marinades, and the kind of execution that makes you wonder why it took so long for someone in this city to do it right.</p>
 
+                <h3>Paneer Shashlik: Vegetarian Grilling at Its Best</h3>
                 <p>To truly enjoy a Paneer Shashlik, you have to begin with the marinade — because that's where the dish is either won or lost. At Café Mysa, the marinade does everything it needs to: it penetrates the paneer, softening it slightly, infusing it with spice and acidity that will bloom and deepen under heat. The peppers and onions that alternate on the skewer are seasoned in their own right, so by the time everything is grilled, each element is complete on its own and also in dialogue with everything around it.</p>
 
                 <p>What arrives on your plate is both beautiful and deeply satisfying. The paneer has colour — proper grill colour, not the pale white of an under-cooked cube but the golden-brown of something that has met heat with confidence. The edges are slightly crisp. The interior is soft, warm, and full of the flavour that was built into it before the grill ever touched it.</p>
 
                 <p>This is the best Paneer Shashlik in Ranchi. It is the version against which all others should be measured.</p>
 
+                <h3>Chicken Shashlik: Tender, Smoky, Completely Addictive</h3>
                 <p>The Chicken Shashlik at Café Mysa operates at a similar level of care but produces a completely different emotional experience — because chicken and paneer, even when treated with equal skill, are fundamentally different ingredients that a flame reveals differently.</p>
 
                 <p>The chicken here is marinated long enough and at the right acidity to achieve tenderness without losing integrity — it doesn't fall apart, it yields. The grill gives it the char it needs, and the smokiness that develops in the crust is one of the most appealing things about this dish. Each piece carries a slight sweetness where the marinade has caramelised against the heat, and an herbaceous depth from whatever spice profile has been worked in.</p>
 
                 <p>Eat the Chicken Shashlik warm. Eat it with whatever accompaniment arrives alongside. Eat it slowly, because this is the kind of grilled chicken that deserves your full attention — and in Ranchi, it is the best version of this dish you are going to find.</p>
 
+                <h3>The Grilled Bowl Extension: Avocado Grilled Paneer and Chicken Bowl</h3>
                 <p>Café Mysa has also extended its grilled philosophy into bowl format — and the result is equally impressive. The Avocado Grilled Paneer Bowl and Avocado Grilled Chicken Bowl take the same grilled proteins and build them into a complete meal: warm grilled pieces over a base, paired with the cool, creamy richness of avocado, fresh herbs, and a dressing that ties it together.</p>
 
                 <p>These bowls are Café Mysa's answer to the question that every health-conscious, flavour-obsessed Ranchi food lover has been quietly asking: where can I find something that's genuinely nourishing, genuinely satisfying, and genuinely good? The answer, now, is right here.</p>
@@ -837,20 +849,24 @@ function initBlogModal() {
         blog25: {
             title: "The Avocado Revolution Is Here: Café Mysa's New Salads & Grilled Bowls in Ranchi",
             body: `
+                <h3>Why Avocado Is Having Its Ranchi Moment</h3>
                 <p>Avocado has been a fixture of premium café culture worldwide for well over a decade — and with good reason. It is genuinely extraordinary as an ingredient: creamy without being heavy, rich without being fatty in a way that weighs you down, and possessed of a mild, buttery flavour that is as compatible with spice as it is with sweetness. It photographs brilliantly. It nourishes deeply. It elevates whatever it touches.</p>
 
                 <p>Ranchi's café scene has been slow to embrace avocado in a serious way — which makes Café Mysa's new avocado-forward additions feel both timely and significant. Three dishes, all built around this ingredient: the Avocado Cream Salad (veg and non-veg), the Avocado Grilled Paneer Bowl, and the Avocado Grilled Chicken Bowl. Together, they represent the most thoughtful avocado menu available at any café in Ranchi right now.</p>
 
+                <h3>Avocado Cream Salad (Veg & Non-Veg): Cool, Rich, and Alive</h3>
                 <p>The Avocado Cream Salad at Café Mysa is the dish for Ranchi's demanding afternoons — when you want something that refreshes and nourishes simultaneously, that is cool and beautiful and filling without any of the heaviness that the heat makes unbearable. The avocado here is worked into a cream element — smooth, rich, slightly tangy with citrus — that coats the other salad components and gives the whole dish a luxurious quality that a simple sliced-avocado version cannot match.</p>
 
-                <p>The veg version builds around fresh greens, vegetables, and toppings that bring crunch, colour, and contrast to the cream. The non-veg version introduces protein — grilled or otherwise — that gives the salad a more substantial character without disrupting the freshness at its heart. Both versions are beautiful on the plate and genuinely satisfying in the eating.</p>
+                <p>The veg version builds around fresh greens, vegetables, and toppings that bring crunch, colour, and contrast to the cream. The non-veg version introduces protein — grilled or otherwise — that gives the salad a more substantial character without disrupting the freshness at its heart.</p>
 
                 <p>Order the Avocado Cream Salad when you want Ranchi's summer to feel manageable and your meal to feel like an act of self-care. This is the best salad at any café in Ranchi right now — and it's available in two versions so that no one has to miss it.</p>
 
+                <h3>Avocado Grilled Paneer Bowl: The Vegetarian Power Bowl Ranchi Needed</h3>
                 <p>The Avocado Grilled Paneer Bowl is Café Mysa's answer to the power bowl — a format that the world's best cafés have perfected and that Ranchi has been waiting for someone to execute properly. Grilled paneer — golden, seasoned, slightly charred — sits in a bowl with a base, fresh herbs, and the avocado element: creamy, cool, and rich in a way that provides the perfect counterpoint to the warmth and char of the paneer.</p>
 
                 <p>What makes this bowl excellent rather than merely good is the balance. The grilled paneer brings warmth and protein. The avocado brings coolness and fat. The base brings substance. The herbs bring brightness. Nothing overwhelms anything else, and the result is a bowl that feels complete — the kind of meal where you push the empty dish aside and feel genuinely well-fed in the deepest sense of the word.</p>
 
+                <h3>Avocado Grilled Chicken Bowl: For Those Who Want More</h3>
                 <p>The non-veg parallel — the Avocado Grilled Chicken Bowl — follows the same logic with grilled chicken in place of paneer, and produces a bowl that has a slightly different energy: more robust, with a smokier protein note that plays beautifully against the avocado's creaminess.</p>
 
                 <p>This is the bowl for long, productive afternoons — the kind of meal that keeps you energized without slowing you down, that satisfies without over-filling, that tastes good enough to deserve the Instagram post it will inevitably generate. In Ranchi's evolving café culture, the Avocado Grilled Chicken Bowl at Café Mysa is a new benchmark.</p>
@@ -861,20 +877,24 @@ function initBlogModal() {
         blog26: {
             title: "Crispy Chicken Mac & Cheese Bowl: The Comfort Food Ranchi Has Been Waiting For",
             body: `
+                <h3>Some Dishes Exist to Make Everything Better</h3>
                 <p>There are dishes that exist in the realm of the practical — nutritious, efficient, designed to fuel you and move on. And then there are dishes that exist in an entirely different register: emotional, indulgent, designed not to fuel you but to comfort you. To make a difficult afternoon shorter. To turn an ordinary Tuesday into something you'll remember. To make the person sitting across from you smile before the first bite has even been taken.</p>
 
                 <p>The Crispy Chicken Mac and Cheese Bowl at Café Mysa is firmly, unapologetically in the second category. This is not a practical dish. It is a wonderful dish. And in a café landscape where Ranchi has been crying out for proper comfort food with ambition behind it, Café Mysa has delivered something that feels like a gift.</p>
 
+                <h3>The Mac and Cheese Foundation: Getting the Base Right</h3>
                 <p>Mac and cheese is deceptively simple and actually quite demanding. The pasta must be cooked correctly — tender but not soft, with enough integrity to survive the sauce without becoming a paste. The cheese sauce must be smooth, rich, and flavoured with enough personality to carry the dish without overwhelming it. The seasoning must be precise.</p>
 
                 <p>At Café Mysa, the mac and cheese base achieves all of this. It is properly creamy — the kind where you pull a spoon through the bowl and watch the sauce follow — and properly cheesy in the way that makes your eyes close briefly before you remember that you're in a café and should probably maintain some composure. This base alone would be enough. Café Mysa didn't stop at the base.</p>
 
+                <h3>The Crispy Chicken: The Upgrade That Makes Everything Sing</h3>
                 <p>The crispy chicken component is where the Crispy Chicken Mac and Cheese Bowl becomes something more than a comfort food classic. The chicken is prepared to achieve maximum contrast with the creamy base: crumbed or battered, cooked to a crackling crispness that holds even as it sits over the warm mac and cheese, providing a textural counterpoint that elevates every single bite.</p>
 
                 <p>The interplay between crispy chicken and creamy mac and cheese is one of those culinary opposites that attract perfectly — crunchy against smooth, warm and savoury in different registers, the chicken's golden exterior meeting the sauce's pale richness. Together they create a bowl that is greater than the sum of its parts, which is the mark of genuinely thoughtful food.</p>
 
                 <p>This is the best version of this dish available at any café in Ranchi. If you're the kind of person who believes that comfort food should never be apologised for, this bowl was made for you.</p>
 
+                <h3>When to Order It and Who to Bring</h3>
                 <p>The Crispy Chicken Mac and Cheese Bowl at Café Mysa is the dish for: every occasion involving weather (too hot, too grey, too demanding), every occasion involving a bad day that needs turning around, every first visit to Café Mysa where you want to order something you know will not let you down, and every visit with someone who claims they're not that hungry but will end up stealing from your bowl.</p>
 
                 <p>Order it for yourself and feel no obligation to share. Or share it with someone and watch it become a moment in your afternoon together. Either way, this bowl is an experience — and in Ranchi, it is one of the best experiences currently available at any café anywhere in the city.</p>
@@ -885,22 +905,26 @@ function initBlogModal() {
         blog27: {
             title: "Thecha Chicken & Ema Datshi Egg: The Boldest, Most Exciting Dishes on Any Café Menu in Ranchi",
             body: `
+                <h3>When a Café Decides to Get Interesting</h3>
                 <p>There's a version of café food that plays it safe — the familiar, the comfortable, the crowd-pleasing standard that offends nobody and excites nobody. And then there is the version that a café produces when it decides to trust its audience, to believe that the people sitting at its tables are curious and adventurous and want to be surprised. Café Mysa has always believed the latter. And with the addition of Thecha Chicken and Ema Datshi Egg to its new menu, it has taken the boldest step yet.</p>
 
                 <p>These are two dishes from two very different culinary traditions — one from the mountains of Bhutan, one from the street-food culture of Maharashtra — and both of them have found, in Café Mysa's kitchen in Ranchi, the respectful and skilled treatment they deserve. If you want to understand what makes this new menu genuinely exciting rather than merely impressive, start here.</p>
 
-                <p>Thecha is a Maharashtrian condiment — a fierce, fragrant paste of green chillies, garlic, and peanuts, ground together in a way that creates something simultaneously hot, nutty, herbal, and deeply addictive. In Maharashtra, it is traditionally eaten as an accompaniment, something to activate a meal rather than define it. At Café Mysa, the kitchen has taken this extraordinary paste and built it into a chicken dish — and the result is one of the most exciting things on the new menu.</p>
+                <h3>Thecha Chicken: Maharashtra's Fire, Ranchi's New Obsession</h3>
+                <p>Thecha is a Maharasyn condiment — a fierce, fragrant paste of green chillies, garlic, and peanuts, ground together in a way that creates something simultaneously hot, nutty, herbal, and deeply addictive. In Maharashtra, it is traditionally eaten as an accompaniment, something to activate a meal rather than define it. At Café Mysa, the kitchen has taken this extraordinary paste and built it into a chicken dish — and the result is one of the most exciting things on the new menu.</p>
 
                 <p>The Thecha Chicken is bold in the way that food built around great chilli is always bold: it announces itself immediately, then reveals layers as you eat. The heat is real and present. But underneath it is the nuttiness of the peanut, the funk of the garlic, the herbaceous quality of the chilli itself. The chicken is a vehicle for all of this flavour, and it has been prepared to absorb and carry every note.</p>
 
                 <p>This is the dish for those who believe that a little fire is always welcome. For those who grew up with Maharashtrian food and have been looking for a trace of home at a Ranchi café. For anyone willing to eat something that demands your attention and rewards it generously. It is, without question, one of the most flavourful dishes at Café Mysa — and one of the most unique things being served at any café in Ranchi right now.</p>
 
+                <h3>Ema Datshi Egg: Bhutan Comes to Ranchi</h3>
                 <p>The Ema Datshi is Bhutan's national dish — and if you're encountering it for the first time at Café Mysa, you are in for a revelation. Ema means chilli and datshi means cheese, and together they form a combination that sounds simple and is, in practice, profoundly complex. Green chillies — whole or roughly chopped — simmered with local cheese until the cheese melts into a sauce that is simultaneously creamy and fiery, the chilli's heat softened but never eliminated by the dairy, the cheese enriched by the chilli's oils.</p>
 
                 <p>Café Mysa's version adds egg — making it a complete meal, adding another textural layer, and giving the richness of the datshi an additional protein dimension that grounds the dish while adding to its satisfaction. The Ema Datshi Egg at Café Mysa is warm, flavourful, and deeply comforting in the way that only dishes built around good cheese and proper heat can be.</p>
 
                 <p>It is also genuinely rare. Very few cafés in Jharkhand — very few cafés outside of Bhutan itself and a handful of adventurous restaurants in India's larger cities — are serving Ema Datshi with any seriousness. At Café Mysa, in Ranchi, you can have it today. That is something worth celebrating — and worth making the trip for.</p>
 
+                <h3>Two Dishes, One Philosophy: Come for the Bold</h3>
                 <p>What Thecha Chicken and Ema Datshi Egg have in common is a willingness to be genuinely, unapologetically themselves — dishes with strong identities, built around flavour profiles that don't ask permission. In this way, they are perfect expressions of what Café Mysa's new menu represents: a café that is confident enough in its audience to bring them something real, something from somewhere specific, something that carries a story worth knowing.</p>
 
                 <p>Order the Thecha Chicken. Order the Ema Datshi Egg. Order them together if you're feeling ambitious. Bring someone curious enough to appreciate them.</p>
@@ -911,22 +935,27 @@ function initBlogModal() {
         blog28: {
             title: "The Best Vegetarian Café Food in Ranchi: Why Café Mysa's New Veg Menu Is a Complete Game Changer",
             body: `
+                <h3>A Veg Menu Worthy of Every Expectation</h3>
                 <p>Vegetarian café dining in Ranchi has historically been a story of limitation — a few dependable options, familiar flavours, the sense that the interesting items on any menu are the non-veg ones and that veg diners should manage their expectations accordingly. Café Mysa has been quietly challenging this assumption for some time. With the new additions to its menu, that challenge becomes a definitive statement.</p>
 
                 <p>The new vegetarian items at Café Mysa are not afterthoughts or adaptations of non-veg originals. They are dishes conceived, built, and executed as vegetarian food — with the full conviction of a kitchen that understands that the best veg food doesn't remind you of what's absent. It makes you completely forget the question.</p>
 
+                <h3>Paneer Shashlik: The Veg Showstopper</h3>
                 <p>Begin with the Paneer Shashlik, because it is the clearest argument for how far vegetarian grilling can go when it is treated seriously. Paneer is not a protein that automatically succeeds on a grill — it requires the right marinade, the right heat, the right handling to achieve the grill colour and tenderness that make it extraordinary. Café Mysa gets all three right.</p>
 
                 <p>The result is a Paneer Shashlik that has grill char at its edges, softness at its core, and a marinade flavour that runs all the way through. Served with accompaniments that complement rather than distract, it is the best grilled paneer dish available at any café in Ranchi. Order it once and it will become a habit.</p>
 
+                <h3>Veg Delight Wrap: Fresh, Filling, and Built for Real Hunger</h3>
                 <p>The Veg Delight Wrap is the new menu's most immediately practical offering — and by practical, we mean the kind of thing you want when you're actually hungry, when you need something that satisfies without ceremony, that you can eat with your hands while the conversation continues uninterrupted.</p>
 
                 <p>A great wrap is deceptively difficult: the filling must be flavourful enough to carry the dish on its own, the wrap must be fresh enough to stay intact, and the whole thing must have enough internal contrast — texture, freshness, spice, creaminess — to stay interesting from the first bite to the last. The Veg Delight Wrap at Café Mysa achieves all of this. It is exactly as good as its name suggests: a wrap that genuinely delights, every time.</p>
 
+                <h3>Pesto Rosso Pasta & Spaghetti in Chilli Garlic Oil: World-Class Veg Pasta in Ranchi</h3>
                 <p>Both the Pesto Rosso Pasta and the Spaghetti in Chilli Garlic Oil are available in vegetarian versions — and it's worth emphasising that the veg pasta at Café Mysa is not a diminished version of the non-veg. It is the original, the baseline, the dish as it was conceived in the Italian tradition where olive oil, herbs, and quality pasta are the foundation and protein is optional.</p>
 
                 <p>The veg Pesto Rosso is herb-rich, tomato-deep, and fully satisfying. The veg Chilli Garlic Spaghetti is fragrant, bold, and beautifully executed. Both are dishes you can order with complete confidence that you are getting a first-rate café pasta — the best Italian veg food in Ranchi, without qualification.</p>
 
+                <h3>Avocado Cream Salad & Grilled Paneer Bowl: The Healthy Veg Pair</h3>
                 <p>For those who want their vegetarian café experience to also be nourishing, the Avocado Cream Salad (veg) and the Avocado Grilled Paneer Bowl are where the new menu shines most brightly. The salad brings cool, creamy avocado richness to a fresh and carefully composed plate. The bowl brings warm grilled paneer alongside that same avocado element in a format that is genuinely filling and genuinely good for you.</p>
 
                 <p>Together with Ema Datshi Egg — which is itself a vegetarian dish, built around chilli, cheese, and egg — Café Mysa's veg menu is the most complete, most exciting, most satisfying vegetarian café menu available in Ranchi today.</p>
@@ -937,22 +966,27 @@ function initBlogModal() {
         blog29: {
             title: "Best Café in Ranchi for Food Lovers: Why Café Mysa Is the City's Ultimate Dining Destination",
             body: `
+                <h3>What Makes a Café Great? Ranchi Has Its Answer.</h3>
                 <p>The question of what separates a great café from a merely adequate one is not primarily about the quality of any single dish, though that matters. It's about the totality — the accumulation of considered choices that a café makes over time about ingredients, ambience, menu design, service, and the overall experience of being there. A great café is one that makes you feel, each time you visit, that you made the right decision. That this is where you should be. That your afternoon, your lunch hour, your evening, your morning is better for having been spent here.</p>
 
                 <p>In Ranchi, that café is Café Mysa. Not because it is the only good café in the city — Ranchi's café scene has been growing with impressive energy — but because Café Mysa consistently operates at a level above what anyone around it is doing. The new menu is the clearest proof yet of this commitment to excellence.</p>
 
+                <h3>A Menu That Covers Every Mood and Every Hunger</h3>
                 <p>The depth of Café Mysa's new menu is genuinely remarkable. Want something light and fresh? The Avocado Cream Salad or the Veg Delight Wrap. Want something substantial and protein-rich? The Paneer or Chicken Shashlik, the Avocado Grilled Bowls, the Baked Chicken Taco. Craving comfort? The Crispy Chicken Mac and Cheese Bowl. In the mood for adventure? The Thecha Chicken or the Ema Datshi Egg. Want world-class pasta in Ranchi? The Pesto Rosso and the Spaghetti in Chilli Garlic Oil.</p>
 
                 <p>No other café in Ranchi offers this range with this level of quality across the board. Café Mysa has built a menu that serves breakfast, lunch, and dinner moods simultaneously — that covers the solo laptop worker, the couple on a date, the family with different preferences, the friend group that can't agree — and gives all of them something extraordinary.</p>
 
+                <h3>Ranchi Food Scene Is Growing — Café Mysa Is Leading It</h3>
                 <p>Ranchi's food landscape has been transforming over the past few years with genuine momentum. New cafés have opened, standards have risen, and the city's food-loving community has become more demanding, more adventurous, and more vocal about what they want. This is an exciting moment to be eating in Ranchi — and Café Mysa is at the centre of it.</p>
 
                 <p>The decision to introduce baked tacos, Bhutanese Ema Datshi, Maharashtrian Thecha Chicken, Italian pastas, and premium avocado-forward dishes to a Ranchi café menu isn't just a menu update. It's a statement about what Ranchi's food culture is capable of. It says: this city is ready for this. These diners deserve this. Café Mysa believes in Ranchi as a food destination — and it is willing to put its kitchen where that belief is.</p>
 
+                <h3>The Space, The Ambience, The Reason to Stay</h3>
                 <p>The food would matter less if the space wasn't right — and at Café Mysa, the space is very right. It is the kind of café that earns the word aesthetic without making that the whole point. The ambience supports the food rather than competing with it: warm, well-designed, comfortable enough to stay for hours, beautiful enough to photograph naturally without trying.</p>
 
                 <p>In a city the size of Ranchi, this combination — great food across a genuinely diverse and ambitious menu, in a space that makes you want to be there — is rare. Café Mysa has it. That's why, when people in Ranchi talk about the best café in the city, the conversation keeps returning to the same address.</p>
 
+                <h3>Your Next Visit Should Be Soon</h3>
                 <p>The new menu at Café Mysa is live right now — which means everything described in this post is available today, this week, the next time you find yourself thinking about where to go in Ranchi for a meal that will actually make you happy.</p>
 
                 <p>Come to Café Mysa. Bring someone. Order generously. Try something new. And confirm what Ranchi's most discerning food lovers already know: this is the best café in the city. It's been the best for a while. And it just got better.</p>
@@ -961,22 +995,27 @@ function initBlogModal() {
         blog30: {
             title: "Ranchi's Best Lunch Spot? It's Always Been Café Mysa — And the New Menu Proves It",
             body: `
+                <h3>The Midday Problem That Ranchi Has Needed Solved</h3>
                 <p>Here is an honest observation about lunch in Ranchi: it's the meal that most cafés handle least well. Breakfast has ritual and morning energy behind it. Dinner has occasion and evening atmosphere. But lunch — that demanding, midday meal that has to satisfy without slowing you down, that has to be fast enough for a workday and good enough to actually enjoy — is where most places fall short.</p>
 
                 <p>Café Mysa doesn't fall short. The new menu additions, layered over an already strong foundation, have turned Café Mysa into the definitive answer to the question that every professional, student, and food-loving Ranchi resident asks every day around 12:30pm: where do I actually want to eat today?</p>
 
+                <h3>Fast, Satisfying, and Good: The Wrap That Works</h3>
                 <p>For the lunch that has to work around a schedule — the one you need quickly, need to be filling, need to not leave you sluggish at 2pm — the Veg Delight Wrap is Café Mysa's most practical gift to Ranchi's working population. Fresh, flavourful, and genuinely complete as a meal, it's the kind of lunch that doesn't feel like a compromise. You eat it and you feel fed — not full to the point of discomfort, but satisfied in the clean, energising way that good food produces.</p>
 
                 <p>It's also fast enough for a lunch hour without feeling rushed. The wrap is ready when you need it, tastes excellent while you eat it, and leaves you capable of an afternoon's worth of work. This is lunch engineering done right.</p>
 
+                <h3>The Bowl Lunch: Complete, Nourishing, Beautiful</h3>
                 <p>For those with a slightly longer lunch break — or those who believe that midday is the best time for a proper meal — the Avocado Grilled Paneer Bowl and Avocado Grilled Chicken Bowl are the definitive lunch choices at Café Mysa right now. Both bowls are constructed for the lunch context: warm protein, fresh avocado, a base that provides substance without heaviness, and enough flavour to make eating feel like a pleasure rather than a task.</p>
 
                 <p>The Avocado Cream Salad is the lighter option for the same audience — ideal for Ranchi's summer heat, when a full bowl might be more than the day requires, but something cool, creamy, and genuinely satisfying is exactly right. All three represent the best healthy lunch available at any café in Ranchi.</p>
 
+                <h3>The Pasta Lunch: World-Class Midday Eating in Ranchi</h3>
                 <p>If lunch is your main meal and you want something that deserves the occasion, the pasta options at Café Mysa are the answer. The Pesto Rosso Pasta and the Spaghetti in Chilli Garlic Oil are both excellent lunchtime choices — satisfying without being heavy, flavourful enough to feel like a proper meal, and available in veg and non-veg versions that suit any preference.</p>
 
                 <p>A bowl of Chilli Garlic Spaghetti at Café Mysa in the middle of a Ranchi workday is one of the most civilised things you can do with your lunch hour. It is the kind of meal that makes the afternoon feel possible.</p>
 
+                <h3>The Weekend Lunch: When Time Isn't the Constraint</h3>
                 <p>Weekend lunches at Café Mysa deserve their own category — because when time isn't the issue, the menu opens up entirely. On a Saturday or Sunday, this is where you order the Chicken or Paneer Shashlik and eat it slowly. Where you try the Baked Chicken Taco. Where you order the Crispy Chicken Mac and Cheese Bowl and don't feel the least bit guilty about the fact that it is exactly as indulgent as it sounds. Where, if you're feeling genuinely adventurous, you order the Thecha Chicken and discover what Maharashtrian spice does to your afternoon.</p>
 
                 <p>Weekend lunch at Café Mysa is an event. A pleasure. A reason to make plans rather than wait for them to happen.</p>

@@ -1058,6 +1058,15 @@ section {
     margin-bottom: 1.2rem;
 }
 
+.blog-modal-body h3 {
+    font-family: var(--font-primary);
+    font-size: 1.35rem;
+    color: var(--color-dark-green);
+    margin-top: 1.8rem;
+    margin-bottom: 0.8rem;
+    font-weight: 600;
+}
+
 @keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
