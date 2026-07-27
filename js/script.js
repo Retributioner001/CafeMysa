@@ -725,7 +725,10 @@ function initBlogModal() {
 
                 <p>Here is what a perfect Café Mysa mango season visit looks like: You arrive mid-morning as the Ranchi heat is beginning to build. You order a Mango Basil Mojito and a Granola Bowl. You settle in. You stay longer than you planned. Somewhere around noon, you add a Mango Avocado Salad. The afternoon arrives and with it, a Mango Matcha Frappe. Evening light fills the café and you order — because how could you not — the Mango Tres Leches.</p>
 
-                <p>You        blog21: {
+                <p>You can explore the complete Café Mysa mango experience and discover something new with every visit.</p>
+            `
+        },
+        blog21: {
             title: "Café Mysa Just Rewrote Ranchi's Food Scene — And the New Menu Proves It",
             body: `
                 <h3>A Menu That Changes the Conversation</h3>
@@ -1432,6 +1435,5 @@ if (document.readyState === 'loading') {
 } else {
     initMicroInteractions();
 }
-
 
 
